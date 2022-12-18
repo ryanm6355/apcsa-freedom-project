@@ -19,6 +19,8 @@ FPS Microgame:https://learn.unity.com/project/fps-template
 
 Ruby's Adventure:https://learn.unity.com/project/ruby-s-2d-rpg
 
+Codecademy C# Tutorial:https://www.codecademy.com/learn/learn-c-sharp-introduction
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
