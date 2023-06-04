@@ -14,7 +14,7 @@ For my project, I am making a Top Down 2D arcade game about a man trying to shoo
 [Presentation](https://docs.google.com/presentation/d/10MkFg05DY8_5VrbilbVmgm5n8c9Hg96iZy5cKpSI68Y/edit?usp=sharing)
 
 ## Implications
-X
+This project could help bring people together to see each other try to get the highest score.
 
 ---
 
